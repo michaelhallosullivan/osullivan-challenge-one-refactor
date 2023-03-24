@@ -18,3 +18,23 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Description
+
+This website refactor was altered from starter code to reduce redundancies, increase accessibility, and optimize structure.
+
+## Installation
+
+N/A
+
+## Usage
+
+Observe the html and css files to see a significantly reduced number of lines of code, semantic html elements, alt attributes on images, and a descriptive title.
+
+## Credits
+
+Refactored by Michael O'Sullivan. Original starter code provided by UCB full-stack coding bootcamp.
+
+## License
+
+MIT License
