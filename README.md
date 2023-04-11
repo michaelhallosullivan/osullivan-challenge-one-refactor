@@ -38,3 +38,5 @@ Refactored by Michael O'Sullivan. Original starter code provided by UCB full-sta
 ## License
 
 MIT License
+
+![Model](https://github.com/michaelhallosullivan/osullivan-challenge-one-refactor/blob/main/Develop/assets/images/challenge-one.jpg)
